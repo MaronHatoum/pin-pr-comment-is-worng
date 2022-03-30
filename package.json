@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "handlebars": "^4.7.1"
+    "handlebars": "4.7.7"
   }
 }
